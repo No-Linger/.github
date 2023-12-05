@@ -16,6 +16,7 @@
 - José Miguel Gurtubay
 - Josué Bernando
 - Diego Mellado
+- Adrian Bravo
 
 ## Documentación
 En el siguiente [enlace](https://drive.google.com/drive/folders/1DeyqcT5LkTFRwx0wsR12hyJen3lu2BvO?usp=sharing) se puede consultar documentación adicional de los proyectos.
